@@ -1,5 +1,5 @@
 function set-commonvars {
-    $key = "DuZTO1MMHITAvdw5"
+    $key = "put key here"
     $base = "https://tarkov-market.com/api/v1/"
     $header = @{"x-api-key" = $key }
 }
