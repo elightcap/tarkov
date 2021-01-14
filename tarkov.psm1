@@ -5,6 +5,7 @@ function set-commonvars {
 }
 
 function get-workbenchcraft {
+    ##comment
     set-commonvars
     $m995 = irm "https://tarkov-market.com/api/v1/item?q=m995" -headers $header
     $eagle = irm "https://tarkov-market.com/api/v1/item?q=eagle" -headers $header
