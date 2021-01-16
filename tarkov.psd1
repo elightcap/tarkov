@@ -8,7 +8,7 @@
 
 @{
 
-## Script module or binary module file associated with this manifest.
+# Script module or binary module file associated with this manifest.
 RootModule = '.\tarkov.psm1'
 
 # Version number of this module.
